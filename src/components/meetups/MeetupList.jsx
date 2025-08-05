@@ -1,4 +1,3 @@
-import React from "react";
 import classes from "./MeetupList.module.css";
 import MeetupItem from "./MeetupItem";
 
